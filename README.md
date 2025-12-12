@@ -1,10 +1,10 @@
-# Lung Cancer Risk Analytics Dashboard – Power BI
+# 📊 Lung Cancer Risk Analytics Dashboard – Power BI
 
 A professional Power BI dashboard designed to analyze lung cancer risk indicators and highlight patterns based on air quality, lifestyle habits and medical symptoms. The dashboard provides data driven insights that support early awareness and preventive decisions.
 
 ---
 
-## Project Overview
+## 🔍 Project Overview
 
 This project focuses on understanding how environmental factors lifestyle choices and symptoms relate to lung cancer risk. The dashboard uses a custom dataset that includes demographic information air quality scores, smoking status, exposure levels, oxygen saturation, BMI cough frequency and risk levels.
 
@@ -26,7 +26,7 @@ Click below to watch the short demo of the dashboard:
 
 ---
 
-## Features
+## 🚀 Features
 
 - Dynamic filtering using Age Group Smoking Status and Exposure Level  
 - Risk Level Distribution chart  
